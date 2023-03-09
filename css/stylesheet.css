@@ -1,0 +1,126 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid burlywood ;
+    background-color: beige;
+    margin-top :0px;
+    font-size: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+    
+  header {
+    background-image:  url(../images/background-image.jpg);    
+    background-size: cover;   
+    background-color: #456990;
+        padding : 40px;
+        padding-top: -20px ;
+        padding-right: -108px;
+        padding-bottom: 13px;
+       text-align: center;
+      font-size: large;
+      background-position: top center;
+  }
+  
+ section{
+        padding-left:38px;
+       
+  }
+    
+  h2{
+    color: #840032;
+    padding-top: 40px;
+    font-size: 40px;
+  }
+  
+  img.profile{
+    border: 2px solid #FF495C;
+    border-radius: 75px;
+    height: 150px;
+    width: 150px;
+  }
+  
+  a{
+    color:blue;
+    
+  }
+  
+  
+  
+  .bold{
+    color: burlywood;
+    border-bottom: 5px;
+    border-style: solid #456990;
+    padding-left: 8px;
+  }
+  
+  
+footer{
+       padding-top: 30px;
+       text-align: center;
+}
+  div.space{ 
+            padding-top: 30px;
+           
+  }
+
+  h3{
+    font-size: 30px;
+  
+  }
+  
+  .none{
+      list-style: none;
+  }
+  
+  
+  
+  
+  #container{
+             display: flex;
+          margin-right: 105px;
+  }
+  
+ .sticky {position: sticky;
+            top: 0;}
+  
+  #box1{
+    
+   padding: 150px;
+    background-color: #FF495C;
+    margin-bottom: -302px;
+  }
+   
+  
+  
+  #box2{
+    
+    
+  }
+  .personal{
+    color: #840032;
+    font-size: 24px;
+  }
+  .gap{
+       margin-top: 40px;
+    padding-top: 50px;
+       padding-left: 400px;
+
+       background-color: grey;
+       
+       
+       text-align: left;
+     margin-left: 465px;
+  }
+h4{
+    color: burlywood;
+    font-size: 25px;
+}
+#big{
+     font-size: 23px;
+}
+
+.credit{
+         padding-left: 50px;
+         color: blue;
+}
