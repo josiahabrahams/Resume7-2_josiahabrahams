@@ -2,10 +2,9 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 5px solid burlywood ;
     background-color: beige;
-    margin-top :0px;
+    
     font-size: 20px;
-    margin-right: 0px;
-    margin-left: 0px;
+    
   }
 
     
@@ -48,7 +47,7 @@ body{
   
   
   .bold{
-    color: burlywood;
+   
     border-bottom: 5px;
     border-style: solid #456990;
     padding-left: 8px;
@@ -66,7 +65,7 @@ footer{
 
   h3{
     font-size: 30px;
-  
+     color: #FE938C;
   }
   
   .none{
@@ -88,7 +87,7 @@ footer{
     
    padding: 150px;
     background-color: #FF495C;
-    margin-bottom: -302px;
+    margin-bottom: -287px;
   }
    
   
@@ -112,15 +111,18 @@ footer{
        text-align: left;
      margin-left: 465px;
   }
-h4{
-    color: burlywood;
-    font-size: 25px;
-}
+
 #big{
      font-size: 23px;
 }
 
 .credit{
-         padding-left: 50px;
+         padding-left: 450px;
          color: blue;
+}
+.burlywood{
+           color: burlywood;
+}
+h4{
+   color: #EFA9AE;
 }
